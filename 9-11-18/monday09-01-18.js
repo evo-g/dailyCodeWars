@@ -20,5 +20,6 @@ function countBarks(str) {
 } 
 
 // countBarks('<-<-<-<')
- countBarks('<-<-<->-<-<-<') 
+// countBarks('<-<-<->-<-<-<') 
 //   countBarks('<-<-<->-<->-<-<-<')
+countBarks('>-<-<-<->->->-<-<')
