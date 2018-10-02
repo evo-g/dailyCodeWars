@@ -1,6 +1,7 @@
 function countBarks(str) {
     var barkCounter = 0;
     var rightCounter = 0;
+
     // var strBreak = str.split('');
     // console.log('strbreak', strBreak)
 
